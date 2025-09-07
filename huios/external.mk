@@ -1,0 +1,2 @@
+BR2_ENABLE_CONFIG_FRAGMENT=y
+BR2_CONFIG_FRAGMENTS+=$(BR2_EXTERNAL_HUIOS_PATH)/configs/fragment-huios-generic.config
