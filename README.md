@@ -3,4 +3,7 @@
 Welcome to HuiOS. This is linux-based operation system for different clocks. The project is based on buildroot 2025.05.x. This prject was made for education purpose only. </br>
 All the docs will be written later :) </br> </br>
 Best regards </br>
-HuiOS developer 
+HuiOS developer
+
+## Documentations
+All the docs are located at docs/huios/ folder.
